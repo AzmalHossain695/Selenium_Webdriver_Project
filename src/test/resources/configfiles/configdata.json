@@ -1,0 +1,14 @@
+{
+	"browser": "chrome",
+	
+	"arg1": "--incognito",
+	
+	"arg2": "--remote-allow-origins=*",
+	
+	"arg3": "-private",	
+	
+	"url": "https://store.steampowered.com",
+	
+	"wait1": 10
+	
+}
